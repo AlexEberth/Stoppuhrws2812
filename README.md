@@ -11,6 +11,7 @@ Ich habe folgende Teile verwendet:
 - 1 Wiederstand 470 Ohm
   
 Der Anschluss der Teile erfolgt wie auf diesem Bild: https://hackster.imgix.net/uploads/image/file/161045/WhimsyNeopixelNano_bb%20copy.png?auto=compress%2Cformat&w=1280&h=960&fit=max
+Ich habe den 9. Pin benutzt.
 
 Das WS2812b-Band wird als 8-stellige digitale Zahl gelegt und zuerst vom Sekunden-Anzeiger in dieser Form aufgebaut:
 
